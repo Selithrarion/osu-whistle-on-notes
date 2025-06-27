@@ -1,5 +1,5 @@
 # osu-whistle-on-notes
-(probably stable only)
+(probably osu!stable only)
 
 a little application i made for myself a long ago to quickly set whistle hitsound on every note (i just like how it sounds)
 so basically you need python, then just open this file and select a difficulty
